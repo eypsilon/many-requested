@@ -2,6 +2,7 @@
     "name": "eypsilon/many-requested",
     "description": "Many Tools",
     "type": "library",
+    "license": "proprietary",
     "authors": [
         {
             "name": "eypsilon",
