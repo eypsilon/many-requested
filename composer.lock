@@ -14,5 +14,6 @@
     "prefer-lowest": false,
     "platform": [],
     "platform-dev": [],
+    "license": "proprietary",
     "plugin-api-version": "2.0.0"
 }
